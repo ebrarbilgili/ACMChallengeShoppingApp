@@ -1,0 +1,17 @@
+{
+    "home": {
+        "welcome": "Welcome",
+        "chair": "Chair",
+        "all": "All",
+        "sofa": "Sofa",
+        "table": "Table",
+        "lamp": "Lamp",
+        "furniture": "Furniture",
+        "search": "search",
+        "buy": "Buy"
+    },
+    "home_detail": {
+        "detail_product": "Detail Product",
+        "color": "Color"
+    }
+}

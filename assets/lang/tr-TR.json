@@ -1,0 +1,17 @@
+{
+    "home": {
+        "welcome": "Hoşgeldiniz",
+        "chair": "Sandalye",
+        "all": "Her şey",
+        "sofa": "Kanepe",
+        "table": "Tablo",
+        "lamp": "Lamba",
+        "furniture": "Mobilya",
+        "search": "arama",
+        "buy": "Satın Al"
+    },
+    "home_detail": {
+        "detail_product": "Ürün Detayı",
+        "color": "Renk"
+    }
+}
